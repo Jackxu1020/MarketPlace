@@ -1,4 +1,4 @@
-# Hiive Pre-IPO Secondary Marketplace
+# Pre-IPO Secondary Marketplace
 
 A full-stack demo of a pre-IPO secondary marketplace with deal room and order book functionality. Users can buy/sell shares in pre-IPO companies with real-time matching and updates.
 
